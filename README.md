@@ -43,5 +43,5 @@ https://www.zapsplat.com/
 
 As I said I couldn't convert the game into a single .exe program, so the following way is the onle one to execute the game:
 ```
-$ python space_invaders.py
+$ python main.py
 ```
